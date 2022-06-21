@@ -17,5 +17,6 @@
 
 ## step7. 5~6 개의 theme 중에서 3개 정도 고르기
 
+<img width="557" alt="image" src="https://user-images.githubusercontent.com/103720259/174816155-b55576b7-ca85-4cba-a714-96580abf4e7c.png">
 
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/103720259/174815655-50ea0b7b-eceb-4dd9-ac31-e32ad5f4207e.png">
