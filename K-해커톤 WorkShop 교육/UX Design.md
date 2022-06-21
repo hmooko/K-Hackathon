@@ -17,7 +17,7 @@
 협업
 
 ## Desing thinking의 단계
-step1. Inspiraction (영감)
+step1. Inspirction (영감)
 - 사용자로부터 배우기
 - 전문가로부터 배우기
 - 직접 해보기
