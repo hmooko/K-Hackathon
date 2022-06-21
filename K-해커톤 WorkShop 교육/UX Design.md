@@ -1,5 +1,5 @@
 # Design thinking
-## Dsign thinking의 구성 요소
+## Design thinking의 구성 요소
 공감
 - 다양한 시각
 - 사람 중심
